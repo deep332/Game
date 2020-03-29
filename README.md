@@ -8,4 +8,4 @@ This i a simple game in this game:
 3) You will be well guided and be given hints after each guess
 4) You will have 9 attempts to guess the code
 
-Good Luck cpmpleting it
+Good Luck completing it
